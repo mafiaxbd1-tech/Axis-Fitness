@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.axis_fitness_black.twa",
+        "sha256_cert_fingerprints": ["59:40:CD:30:65:08:24:A1:73:7E:4C:74:C5:27:D8:56:E9:79:00:4B:86:4E:CC:4C:C0:E7:9C:B4:97:37:E6:BF"]
+      }
+    }]
